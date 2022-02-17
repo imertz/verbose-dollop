@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verbose-dollop/static/css/main.e1c62c5a.css",
+    "main.js": "/verbose-dollop/static/js/main.409af751.js",
+    "index.html": "/verbose-dollop/index.html",
+    "main.e1c62c5a.css.map": "/verbose-dollop/static/css/main.e1c62c5a.css.map",
+    "main.409af751.js.map": "/verbose-dollop/static/js/main.409af751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1c62c5a.css",
+    "static/js/main.409af751.js"
+  ]
+}
